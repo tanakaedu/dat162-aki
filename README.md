@@ -13,6 +13,8 @@
 - MusicManagerの曲データのタイミングで、blockを出現させる
 - blockに、拍数から秒数を算出して渡す
 
+![ホワイトボード](https://github.com/tanakaedu/dat162-aki/blob/master/img0909.jpg?raw=true)
+
 # 14回目(9/9)
 ## 音ゲー
 - Asset Storeから、 Action Game Music をインポートして、Enemy Spaceship_(moderate)を利用
