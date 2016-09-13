@@ -4,6 +4,10 @@
 - [paiza ITエンジニア・プログラマを目指す就活で押さえるべきポイント](http://paiza.jp/advice/student_advice)
 
 
+# サイト紹介
+- https://skima.jp/
+
+
 # 15回目(9/16)
 ## 音ゲー
 - MusicManagerとTempoを統合する
