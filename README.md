@@ -15,7 +15,8 @@
 - audio.timeを直接つかうのをやめて、MusicManager.getTime()で、タイムを返す
 - 再生時間がきたら、曲を再生
 - 以上で、0拍目がタイミング通りに動くはず
-- MusicManagerの曲データのタイミングで、blockを出現させる
+- 指定の拍を、曲の経過秒数に変換する関数 MusicManager.getTimeWithHaku() の作成
+- MusicManagerの曲データのタイミングで、blockを出現させて、時間を設定する
 - blockに、拍数から秒数を算出して渡す
 
 ![ホワイトボード](https://github.com/tanakaedu/dat162-aki/blob/master/img0909.jpg?raw=true)
