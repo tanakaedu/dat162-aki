@@ -5,8 +5,7 @@
 
 
 # サイト紹介
-- イラストオーダーオーダーサービスサービスSKIMA https://skima.jp/
-- IGDAジャパン ゲーム開発者推薦図書リスト(CEDEC2016)版 http://www.igda.jp/?p=4618
+- Unityインターハイ2016 https://inter-high.unity3d.jp/
 
 
 # 1回目
@@ -27,6 +26,11 @@
 - blockに、拍数から秒数を算出して渡す
 
 ![ホワイトボード](https://github.com/tanakaedu/dat162-aki/blob/master/img0909.jpg?raw=true)
+
+### 紹介ページ
+- イラストオーダーオーダーサービスサービスSKIMA https://skima.jp/
+- IGDAジャパン ゲーム開発者推薦図書リスト(CEDEC2016)版 http://www.igda.jp/?p=4618
+
 
 # 14回目(9/9)
 ## 音ゲー
