@@ -6,6 +6,7 @@
 
 # サイト紹介
 - Unityインターハイ2016 https://inter-high.unity3d.jp/
+- 面白そうなハード Arduboy http://ssci.to/2880
 
 
 # 1回目
