@@ -19,6 +19,8 @@
 
 # 4回目
 - http://www.screenpresso.com/ でチュートリアル作成
+  - monosnap はインストールが必要
+ 
 
 # 2,3回目
 - [Unityちゃんの操作性アップ](https://github.com/tanakaedu/dat161-aki/wiki/UnityChan%E3%81%AE%E6%93%8D%E4%BD%9C%E6%80%A7%E3%82%92%E3%82%88%E3%81%8F%E3%81%99%E3%82%8B)
