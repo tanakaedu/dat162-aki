@@ -1,5 +1,11 @@
 # デジタルアーツ東京　2016年度秋学期　2年生用リポジトリ
 
+# 5回目
+- 作品を、GitHub Pagesにアップする
+- Unityちゃんに追加のモーションを自分でつける方法を調べる
+- 興味のある人は、これをやってみる > [Unityちゃんの操作性アップ](https://github.com/tanakaedu/dat161-aki/wiki/UnityChan%E3%81%AE%E6%93%8D%E4%BD%9C%E6%80%A7%E3%82%92%E3%82%88%E3%81%8F%E3%81%99%E3%82%8B)
+
+
 # 就活に向けての記事
 - [paiza ITエンジニア・プログラマを目指す就活で押さえるべきポイント](http://paiza.jp/advice/student_advice)
 
@@ -10,7 +16,7 @@
 
 
 #　書籍紹介
-まだ実際の本に目を通していないが、よさそうなので紹介。
+以下、どちらも良書。
 - 北村 愛実 [Unity5の教科書 2D&3Dスマートフォンゲーム入門講座 (Entertainment&IDEA) ](https://www.amazon.co.jp/dp/4862463541/)
   - C#の入門からあるので復習向け。基本的な箇所からひっかかっていたらおススメ。
 - Ben Tristem (著), Mike Geig (著) [24時間で学ぶ! Unity 5 基本操作と開発のコツ](https://www.amazon.co.jp/dp/4862463541/)
