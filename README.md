@@ -1,7 +1,7 @@
 # デジタルアーツ東京　2016年度秋学期　2年生用リポジトリ
 
 # 5回目
-- 作品を、GitHub Pagesにアップする
+1. [作品をGitHub Pagesで公開](http://am1tanaka.hatenablog.com/entry/2015/11/27/115926)
 - Unityちゃんに追加のモーションを自分でつける方法を調べる
 - 興味のある人は、これをやってみる > [Unityちゃんの操作性アップ](https://github.com/tanakaedu/dat161-aki/wiki/UnityChan%E3%81%AE%E6%93%8D%E4%BD%9C%E6%80%A7%E3%82%92%E3%82%88%E3%81%8F%E3%81%99%E3%82%8B)
 
