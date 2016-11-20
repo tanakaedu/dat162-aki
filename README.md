@@ -1,5 +1,10 @@
 # デジタルアーツ東京　2016年度秋学期　2年生用リポジトリ
 
+# 6回目
+- [モグラゲームス デジゲー博で見つけたおすすめ同人・インディゲーム12選](http://www.moguragames.com/entry/digigame-expo-report/)
+- モーション作成など調査
+
+
 # 5回目
 1. [作品をGitHub Pagesで公開](http://am1tanaka.hatenablog.com/entry/2015/11/27/115926)
 - Unityちゃんに追加のモーションを自分でつける方法を調べる
