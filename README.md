@@ -3,7 +3,7 @@
 # 9回目
 - paizaのスキルチェックを実施
 - Unityを使った動かし方マニュアルの作成
-  - グリッドの線をプログラムで描画する方法の調査
+  - グリッドの線をプログラムで描画する方法の調査(https://docs.unity3d.com/ja/current/ScriptReference/LineRenderer.html)
   - 座標に入力して、キャラクターの移動を確認できるインターフェースの作成
   - 練習問題を考える
   - Editor拡張の調査。練習問題を出題して、正解チェックをUnity上でできるか。Unityの単体テストでもよい
